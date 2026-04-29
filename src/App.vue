@@ -2,7 +2,7 @@
   <header class="header">
     <section class="main">
       <h1>
-        <img src="./assets/images/logo.webp" />
+        <img src="https://jsd.268682.xyz/gh/Kemeow0815/img@main/img/kemiao0815.webp" />
         PayQrcode
       </h1>
       <h2>二合一收款码物理合并版</h2>
